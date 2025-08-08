@@ -1,6 +1,6 @@
 👋 Hi, I'm [venatio](https://v3natio.github.io).
 
-I'm pursuing a Bachelor's in Economics at [UC3M](https://www.uc3m.es).
+I'm studying Econometrics at [UC3M](https://www.uc3m.es).
 
 All of my contact information is on my website [v3natio.github.io](https://v3natio.github.io).
 
