@@ -1,4 +1,4 @@
-Hi, I'm [venatio](https://v3natio.github.io)
+👋 Hi, I'm [venatio](https://v3natio.github.io).
 
 I'm pursuing a Bachelor's in Economics at [UC3M](https://www.uc3m.es).
 
